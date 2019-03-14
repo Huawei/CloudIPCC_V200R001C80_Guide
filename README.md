@@ -1,6 +1,4 @@
 # CloudIPCC_V200R001C80_Guide
-## 营销材料：
-IPCC_V200R001C80_解决方案_产品文档.zip
 ## 接口文档：
 IPCC_V200R001C80SPC700_接口参考.zip
 ## 开发指南：
